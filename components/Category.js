@@ -7,7 +7,7 @@ async function Category() {
 
   return (
     <>
-        <div className='flex justify-between mx-5 mt-2'>
+        <div className='flex justify-between mx-3 mt-2 mb-1'>
             <span className='text-sm font-semibold'>Choose Category</span>
             <span className='text-[.8rem] font-medium'>See All</span>
         </div>
