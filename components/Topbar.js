@@ -10,7 +10,7 @@ function Topbar() {
         <Link href="/">
           <BsGrid className='m-3 text-lg'/>
         </Link>
-        <input type="text" placeholder="Search " className="rounded-full bg-slate-200 h-[2rem] outline-none px-4 w-full" />
+        <input type="text" placeholder="Search here" className="rounded-full bg-slate-200 h-[2rem] outline-none px-4 w-full" />
         <span>
           <GrSearch className='absolute top-[.9rem] right-[3.5rem]' />
         </span>
